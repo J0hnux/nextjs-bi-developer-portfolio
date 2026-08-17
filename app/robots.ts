@@ -9,3 +9,4 @@ export default function robots(): MetadataRoute.Robots {
     sitemap: "https://iver-bi-dev.vercel.app/sitemap.xml",
   };
 }
+// test
